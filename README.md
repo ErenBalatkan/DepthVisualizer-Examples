@@ -2,7 +2,7 @@
 
 This repository contains ipynb examples for working with
 Depth Visualizer Library
-https://github.com/Navhkrin/DepthVisualizer-Examples
+https://github.com/ErenBalatkan/DepthVisualizer-Examples
 
 ### Important Remider:
 All the example data contained within this repository belongs to Kitti Dataset
